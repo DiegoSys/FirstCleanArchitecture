@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VjlWf8Gsh6DpAOuJZnrVq56Q133XaOOne25Yy9zsqlXw2Kow+xVz840774qAMdYhXZjt7p554bmiBcAta8UNQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\Source\\repos\\FirstCleanArchitecture\\NorthWind.Sales.BusinessObjects\\NorthWind.Sales.BusinessObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

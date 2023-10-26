@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1XwyPDPqKt3S81kAFK1dJkkh4GsMrkhUNixtvGASW8EDvsALaQ/LJUWZc3GqFC9R5SZ67CxNADliW8Wiac56Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\Source\\repos\\FirstCleanArchitecture\\NorthWind.Entities\\NorthWind.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

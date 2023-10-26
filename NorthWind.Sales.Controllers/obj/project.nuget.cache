@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/kqJpVFYEM17/S8DHSZZ7suoNhYQt44+MicqzHGtnpkcyhsPjRJu4QEn3b34Xl+LIsBZZH2G5nYSObYxyxgGKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\Source\\repos\\FirstCleanArchitecture\\NorthWind.Sales.Controllers\\NorthWind.Sales.Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

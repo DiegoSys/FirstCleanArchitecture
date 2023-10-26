@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pc+3JcjVTgwnvjUH/XbyP5C/RM+pC0XWMZeJsJPEMdV1dCtrhI+LnsJ+vcNiy2gbyOzfOnY1wg8B9vvxbSemBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\Source\\repos\\FirstCleanArchitecture\\NorthWind.Sales.UseCases\\NorthWind.Sales.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
